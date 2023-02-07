@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matherton
 - 👀 I’m interested in ancient astronaut theory, skateboarding, snowboarding and cycling. 
-- 🌱 I’m currently learning Vite for bootstrapping React, Tailwind CSS and refreshing my vanilla JS with JavaScript 30.
+- 🌱 I’m currently using Vite for bootstrapping React, Tailwind CSS and refreshing my vanilla JS with JavaScript 30.
 - 💞️ I’m looking to collaborate on open source javascript projects.
 - 📫 mark@insightinternet.co.uk
 
