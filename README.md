@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matherton
-- 👀 I’m interested in ancient astronaut theory, skateboarding, snowboarding and cycling. 
-- 🌱 I’m currently using Vite for bootstrapping React, Tailwind CSS and using Vue3 to create my insightinternetApp repo. 
+- 👀 I’m interested in ancient astronaut theory, cycling, skateboarding and snowboarding. 
+- 🌱 I’m currently using DaisyUI for bootstrapping Vue3 and Tailwind CSS and using this setup to create https://matherton.github.io/exclusive-solutions/. 
 - 💞️ I’m looking to collaborate on open source javascript projects.
 - 📫 mark@insightinternet.co.uk
 
